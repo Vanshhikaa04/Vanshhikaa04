@@ -28,9 +28,6 @@ applied AI projects.
   > Contributor to BashIn — an offline personal AI assistant
   > Built Weather Predictor — a notebook-based weather forecasting model
   > Shipping hackathon builds (hhgoa-2026-task1)
-
-  (Edit this block with your real title, current role, and any links
-  you want public — this was generated from your public repos.)
 ```
 
 ---
